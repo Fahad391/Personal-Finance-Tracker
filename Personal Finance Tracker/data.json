@@ -1,0 +1,22 @@
+[
+    {
+        "Amount": 80000.0,
+        "Category": "client payment",
+        "Type": "income"
+    },
+    {
+        "Amount": 148000.0,
+        "Category": "client payment",
+        "Type": "income"
+    },
+    {
+        "Amount": 25000.0,
+        "Category": "pay bills (electric, Wifi, service-charge)",
+        "Type": "expense"
+    },
+    {
+        "Amount": 18000.0,
+        "Category": "Rent",
+        "Type": "expense"
+    }
+]
